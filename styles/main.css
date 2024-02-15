@@ -727,6 +727,7 @@ ul.icon-list li span.bullet--heading {
 
 .toggle-group span {
   padding: 0;
+  padding-block-end: 0.5rem;
 }
 
 .toggle-group--target {
