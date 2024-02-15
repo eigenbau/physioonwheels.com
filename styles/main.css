@@ -689,19 +689,19 @@ ul.icon-list li span.bullet--heading {
 }
 
 .toggle-group--neuro {
-  background-image: url(/img/neuro.jpg);
+  background-image: url(../img/neuro.jpg);
 }
 
 .toggle-group--orthopaedic {
-  background-image: url(/img/orthopaedic.jpg);
+  background-image: url(../img/orthopaedic.jpg);
 }
 
 .toggle-group--geriatric {
-  background-image: url(/img/geriatric.jpg);
+  background-image: url(../img/geriatric.jpg);
 }
 
 .toggle-group--mva {
-  background-image: url(/img/mva.jpg);
+  background-image: url(../img/mva.jpg);
 }
 
 .toggle-group ul {
